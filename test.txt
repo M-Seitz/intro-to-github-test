@@ -1,0 +1,10 @@
+total 36
+drwxrwxr-x 3 becode becode 4096 Sep  7 11:52 ..
+-rw-rw-r-- 1 becode becode 4558 Sep  7 11:52 README.md
+-rw-rw-r-- 1 becode becode 1059 Sep  7 11:52 LICENSE
+-rw-rw-r-- 1 becode becode  444 Sep  7 11:52 .gitignore
+drwxrwxr-x 4 becode becode 4096 Sep  7 11:52 .github
+drwxrwxr-x 2 becode becode 4096 Sep  7 11:52 images
+drwxrwxr-x 8 becode becode 4096 Sep  7 11:52 .git
+drwxrwxr-x 5 becode becode 4096 Sep  7 11:56 .
+-rw-rw-r-- 1 becode becode    0 Sep  7 11:56 test.txt
